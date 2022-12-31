@@ -12,3 +12,6 @@ At last Social distancing violations are displayed in the video stream.
 
 # OUTPUT
 ![Screenshot_20221231_214708](https://user-images.githubusercontent.com/113231945/210149475-3726c311-002d-40d8-ad48-3a93e5c9723e.png)
+
+
+Download yolov3.weights for COCO dataset from https://pjreddie.com/darknet/yolo/
