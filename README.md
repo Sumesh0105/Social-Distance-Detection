@@ -11,7 +11,9 @@ Then it calculates the distance between all the instances of humans detected in 
 At last Social distancing violations are displayed in the video stream.
 
 # OUTPUT
-![Screenshot_20221231_214708](https://user-images.githubusercontent.com/113231945/210149475-3726c311-002d-40d8-ad48-3a93e5c9723e.png)
-
+https://user-images.githubusercontent.com/113231945/211144516-800fffb5-14d4-47b6-9b2d-c11f74d9556d.mp4
 
 Download yolov3.weights for COCO dataset from https://pjreddie.com/darknet/yolo/
+
+
+
